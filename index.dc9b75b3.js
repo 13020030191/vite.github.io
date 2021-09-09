@@ -1,1 +1,0 @@
-import{r as a,c as e,a as s,w as t,T as n,o}from"./index.2310e0ba.js";const r={class:"content"};const d={render:function(d,c){const i=a("router-view");return o(),e("div",r,[s(n,{name:"fadesd",mode:"out-in"},{default:t((()=>[s(i)])),_:1})])}};export{d as default};
